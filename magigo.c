@@ -9,7 +9,7 @@ int main()
 	int num[10][10];
 	int (*ptr)[3];
 	int (*par)[3];
-	int i,j,x,n,p,m,k,y,w,b;
+	int i,j,x=0,n,p,m,k,y,w,b;
 	for(i=0;i<=6;i++)
 	{
 			for(j=0;j<=2;j++)
